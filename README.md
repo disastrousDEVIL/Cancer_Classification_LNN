@@ -64,6 +64,7 @@ Below are the training loss, training accuracy, and validation accuracy plots fo
 #### **LNN Model:**
 
 - **Training and Validation Accuracy:**
+  
   ![LNN Training and Validation Accuracy](./figures/LNN_Training_and_Validation_Accuracy.png)
   
 - **Training Loss:**
@@ -73,6 +74,7 @@ Below are the training loss, training accuracy, and validation accuracy plots fo
 #### **DNN Model:**
 
 - **Training and Validation Accuracy:**
+  
   ![DNN Training and Validation Accuracy](./figures/DNN_Training_and_Validation_Accuracy.png)
 
 - **Training Loss:**
